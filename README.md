@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Woudie's github stats](https://github-readme-stats.vercel.app/api?username=woudie&show_icons=true&theme=dracula&count_private=true)
+
+
 <!--
 **woudie/woudie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
